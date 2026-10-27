@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Autumn (autumn-js, billing) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://useautumn.com/
+Autumn provides an open-source billing infrastructure built on top of Stripe, offering usage‑based billing, credits, entitlements, and subscription state through a simple API. It serves AI startups and other SaaS companies needing a unified system of record for subscriptions, metering, and feature access, while delegating payment processing to Stripe. The platform includes endpoints such as attach, check, and track, and is documented with quickstart guides and API references.
+
+**Areas:** Company · Billing · Open-Source · Stripe · AI-Startups
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://useautumn.com/)
+- [Documentation](https://docs.useautumn.com/)
+- [Getting started](https://docs.useautumn.com/documentation/getting-started/migration)
+- [API reference](https://docs.useautumn.com/api-reference)
+- [Pricing](https://useautumn.com/pricing)
+- [Changelog](https://docs.useautumn.com/changelog/changelog)
+- [Blog](https://useautumn.com/blog)
+- [Privacy policy](https://useautumn.com/privacy)
+- [GitHub](https://github.com/useautumn)
+- [Status](https://status.useautumn.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/autumn/](https://apis.io/providers/autumn/).
